@@ -69,8 +69,6 @@ using five representative segmentation backbones:
 
 <img src="Figures/Table 1.png" width="90%">
 
-**Table 1.** Quantitative comparison across datasets and backbone architectures.
-
 </div>
 
 ---
@@ -82,8 +80,6 @@ Paired statistical tests demonstrate that CoSTaR consistently improves over comp
 <div align="center">
 
 <img src="Figures/Table 2.png" width="90%">
-
-**Table 2.** Statistical comparison between CoSTaR and competing methods.
 
 </div>
 
@@ -97,8 +93,6 @@ The figure below illustrates the distribution of segmentation performance and ba
 
 <img src="Figures/Figure 2.png" width="85%">
 
-**Figure 2.** Distribution of segmentation performance and corresponding backbone rankings.
-
 </div>
 
 ---
@@ -110,8 +104,6 @@ Representative segmentation examples together with the subjective evaluation.
 <div align="center">
 
 <img src="Figures/Figure 3.png" width="85%">
-
-**Figure 3.** Subjective comparison and representative qualitative examples.
 
 </div>
 
@@ -125,8 +117,6 @@ Representative segmentation examples together with the subjective evaluation.
 
 <img src="Figures/Table 3.png" width="90%">
 
-**Table 3.** Ablation study of different CoSTaR components.
-
 </div>
 
 ---
@@ -136,8 +126,6 @@ Representative segmentation examples together with the subjective evaluation.
 <div align="center">
 
 <img src="Figures/Table 4.png" width="90%">
-
-**Table 4.** Hyperparameter sensitivity analysis.
 
 </div>
 
@@ -151,8 +139,6 @@ Representative segmentation examples together with the subjective evaluation.
 
 <img src="Figures/Figure S1.png" width="85%">
 
-**Figure S1.** Subjective evaluation for each dataset.
-
 </div>
 
 ---
@@ -163,8 +149,6 @@ Representative segmentation examples together with the subjective evaluation.
 
 <img src="Figures/Figure S2.png" width="90%">
 
-**Figure S2.** Ground truth and prediction overlays.
-
 </div>
 
 ---
@@ -174,8 +158,6 @@ Representative segmentation examples together with the subjective evaluation.
 <div align="center">
 
 <img src="Figures/Table S1.png" width="85%">
-
-**Table S1.** Key hyperparameters.
 
 </div>
 
