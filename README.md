@@ -13,7 +13,7 @@ The framework generates multiple augmented views of each training image, aggrega
 
 <div align="center">
 
-<img src="Figures/Figure 1.png" width="100%">
+<img src="Figures/Figure 1.png" width="85%">
 
 **Figure 1.** Overview of the proposed CoSTaR framework.
 
@@ -67,7 +67,7 @@ using five representative segmentation backbones:
 
 <div align="center">
 
-<img src="Figures/Table 1.png" width="100%">
+<img src="Figures/Table 1.png" width="90%">
 
 **Table 1.** Quantitative comparison across datasets and backbone architectures.
 
@@ -81,7 +81,7 @@ Paired statistical tests demonstrate that CoSTaR consistently improves over comp
 
 <div align="center">
 
-<img src="Figures/Table 2.png" width="70%">
+<img src="Figures/Table 2.png" width="90%">
 
 **Table 2.** Statistical comparison between CoSTaR and competing methods.
 
@@ -95,7 +95,7 @@ The figure below illustrates the distribution of segmentation performance and ba
 
 <div align="center">
 
-<img src="Figures/Figure 2.png" width="100%">
+<img src="Figures/Figure 2.png" width="85%">
 
 **Figure 2.** Distribution of segmentation performance and corresponding backbone rankings.
 
@@ -109,7 +109,7 @@ Representative segmentation examples together with the subjective evaluation.
 
 <div align="center">
 
-<img src="Figures/Figure 3.png" width="100%">
+<img src="Figures/Figure 3.png" width="85%">
 
 **Figure 3.** Subjective comparison and representative qualitative examples.
 
@@ -123,7 +123,7 @@ Representative segmentation examples together with the subjective evaluation.
 
 <div align="center">
 
-<img src="Figures/Table 3.png" width="95%">
+<img src="Figures/Table 3.png" width="90%">
 
 **Table 3.** Ablation study of different CoSTaR components.
 
@@ -135,7 +135,7 @@ Representative segmentation examples together with the subjective evaluation.
 
 <div align="center">
 
-<img src="Figures/Table 4.png" width="95%">
+<img src="Figures/Table 4.png" width="90%">
 
 **Table 4.** Hyperparameter sensitivity analysis.
 
@@ -149,7 +149,7 @@ Representative segmentation examples together with the subjective evaluation.
 
 <div align="center">
 
-<img src="Figures/Figure S1.png" width="70%">
+<img src="Figures/Figure S1.png" width="85%">
 
 **Figure S1.** Subjective evaluation for each dataset.
 
@@ -161,7 +161,7 @@ Representative segmentation examples together with the subjective evaluation.
 
 <div align="center">
 
-<img src="Figures/Figure S2.png" width="95%">
+<img src="Figures/Figure S2.png" width="90%">
 
 **Figure S2.** Ground truth and prediction overlays.
 
@@ -173,7 +173,7 @@ Representative segmentation examples together with the subjective evaluation.
 
 <div align="center">
 
-<img src="Figures/Table S1.png" width="70%">
+<img src="Figures/Table S1.png" width="85%">
 
 **Table S1.** Key hyperparameters.
 
